@@ -1,0 +1,51 @@
+
+/*
+    Created on : 18/06/2015, 17:31:53
+    Author     : gilmario
+*/
+
+body {
+    padding-top: 70px;
+    padding-bottom: 30px;
+
+}
+
+.theme-dropdown .dropdown-menu {
+    position: static;
+    display: block;
+    margin-bottom: 20px;
+}
+
+.theme-showcase > p > .btn {
+    margin: 5px 0;
+}
+
+.theme-showcase .navbar .container {
+    width: auto;
+}
+
+body {
+    padding-top: 50px;
+    padding-bottom: 20px;
+}
+.artigo {
+    padding-top: 50px;
+    padding-bottom: 20px;
+}
+
+p{
+    text-align: justify;
+    transition-duration: 1s;
+}
+
+.artigo p:hover{
+    background: #dddddd;
+    color: black;
+    transition-duration: 1s;
+
+
+
+}
+
+
+
