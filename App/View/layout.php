@@ -12,7 +12,15 @@
     </head>
 
     <body>
-        <nav class="navbar navbar-default navbar-fixed-top">
+        <nav class="navbar navbar-inverse navbar-fixed-top" style="height: 150px;">
+            <div class="container">
+                <div class="navbar-header">
+                    <p><a class="navbar-brand" href="#"><span>Sollos</span></a></p>
+                </div>
+            </div>
+        </nav>
+
+        <nav class="navbar navbar-default" style="padding-top: 100px;">
             <div class="container">
                 <div class="navbar-header">
                     <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar"  aria-controls="navbar">
@@ -34,6 +42,7 @@
                 </div>
             </div>
         </nav>
+
         <div id="conteudo">
             <?php
             $this->conteudo();
