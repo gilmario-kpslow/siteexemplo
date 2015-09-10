@@ -8,7 +8,7 @@
         <!-- Bootstrap core CSS -->
         <link href="/public/resources/css/bootstrap.css" rel="stylesheet"/>
         <link href="/public/resources/css/bootstrap-theme.css" rel="stylesheet"/>
-        <link href="/public/resources/css/site.css" rel="stylesheet"/>
+        <link href="/public/resources/css/app.css" rel="stylesheet"/>
     </head>
 
     <body>
@@ -55,7 +55,7 @@
             </footer>
         </div>
         <script src="/public/resources/js/jquery/jquery.js"></script>
-        <script src="/public/'resources/js/bootstrap.js"></script>
+        <script src="/public/resources/js/bootstrap.js"></script>
         <script src="/public/resources/js/npm.js"></script>
         <script src="/public/resources/js/app.js"></script>
     </body>
